@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yamuw\\Documents\\Programacion\\c\u002B\u002B\\Introduce un nombre\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82083659-3B4C-42EE-A7F9-4A359663B60C}|Introduce un nombre\\Introduce un nombre.vcxproj|C:\\Users\\yamuw\\Documents\\Programacion\\c\u002B\u002B\\Introduce un nombre\\Introduce un nombre\\Introduce un nombre.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{82083659-3B4C-42EE-A7F9-4A359663B60C}|Introduce un nombre\\Introduce un nombre.vcxproj|solutionrelative:Introduce un nombre\\Introduce un nombre.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Introduce un nombre.cpp",
+              "DocumentMoniker": "C:\\Users\\yamuw\\Documents\\Programacion\\c\u002B\u002B\\Introduce un nombre\\Introduce un nombre\\Introduce un nombre.cpp",
+              "RelativeDocumentMoniker": "Introduce un nombre\\Introduce un nombre.cpp",
+              "ToolTip": "C:\\Users\\yamuw\\Documents\\Programacion\\c\u002B\u002B\\Introduce un nombre\\Introduce un nombre\\Introduce un nombre.cpp",
+              "RelativeToolTip": "Introduce un nombre\\Introduce un nombre.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-06T18:34:50.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

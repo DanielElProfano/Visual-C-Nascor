@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yamuw\\Documents\\Programacion\\c\u002B\u002B\\Ma\u00F1ana sera un dia mejor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC05B1F-60B7-4F2A-8932-20AF1BE0E11C}|Ma\u00F1ana sera un dia mejor\\Ma\u00F1ana sera un dia mejor.vcxproj|C:\\Users\\yamuw\\Documents\\Programacion\\c\u002B\u002B\\Ma\u00F1ana sera un dia mejor\\Ma\u00F1ana sera un dia mejor\\Ma\u00F1ana sera un dia mejor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CC05B1F-60B7-4F2A-8932-20AF1BE0E11C}|Ma\u00F1ana sera un dia mejor\\Ma\u00F1ana sera un dia mejor.vcxproj|solutionrelative:Ma\u00F1ana sera un dia mejor\\Ma\u00F1ana sera un dia mejor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ma\u00F1ana sera un dia mejor.cpp",
+              "DocumentMoniker": "C:\\Users\\yamuw\\Documents\\Programacion\\c\u002B\u002B\\Ma\u00F1ana sera un dia mejor\\Ma\u00F1ana sera un dia mejor\\Ma\u00F1ana sera un dia mejor.cpp",
+              "RelativeDocumentMoniker": "Ma\u00F1ana sera un dia mejor\\Ma\u00F1ana sera un dia mejor.cpp",
+              "ToolTip": "C:\\Users\\yamuw\\Documents\\Programacion\\c\u002B\u002B\\Ma\u00F1ana sera un dia mejor\\Ma\u00F1ana sera un dia mejor\\Ma\u00F1ana sera un dia mejor.cpp",
+              "RelativeToolTip": "Ma\u00F1ana sera un dia mejor\\Ma\u00F1ana sera un dia mejor.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-05T19:22:53.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
