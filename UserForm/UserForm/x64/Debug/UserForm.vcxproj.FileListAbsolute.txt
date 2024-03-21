@@ -1,0 +1,3 @@
+C:\Users\yamuw\Documents\Programacion\c++\UserForm\UserForm\x64\Debug\UserForm.vcxproj.AssemblyReference.cache
+C:\Users\yamuw\Documents\Programacion\c++\UserForm\UserForm\x64\Debug\UserForm.MyForm.resources
+C:\Users\yamuw\Documents\Programacion\c++\UserForm\UserForm\x64\Debug\UserForm.vcxproj.GenerateResource.cache
