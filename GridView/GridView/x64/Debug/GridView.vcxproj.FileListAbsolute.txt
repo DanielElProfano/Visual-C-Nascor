@@ -1,0 +1,4 @@
+C:\Users\yamuw\Documents\Programacion\c++\GridView\GridView\x64\Debug\GridView.vcxproj.AssemblyReference.cache
+C:\Users\yamuw\Documents\Programacion\c++\GridView\GridView\x64\Debug\GridView.MyForm.resources
+C:\Users\yamuw\Documents\Programacion\c++\GridView\GridView\x64\Debug\GridView.vcxproj.GenerateResource.cache
+C:\Users\yamuw\Documents\Programacion\c++\GridView\GridView\x64\Debug\GridView.vcxproj.Up2Date
